@@ -335,7 +335,7 @@
 	"firmament.config.save-cursor-position.enable": "启用",
 	"firmament.config.save-cursor-position.enable.description": "切换GUI时保存光标位置。",
 	"firmament.config.save-cursor-position.tolerance": "容忍度",
-	"firmament.config.save-cursor-position.tolerance.description": "选择光标位置在GUI之间持续多长时间，然后重置回屏幕中心。",
+	"firmament.config.save-cursor-position.tolerance.description": "在复位到屏幕中间之前，选择光标在gui之间停留的时间。",
 	"firmament.config.slot-locking": "插槽锁定",
 	"firmament.config.slot-locking.bind": "绑定插槽",
 	"firmament.config.slot-locking.bind-render": "显示插槽绑定",
